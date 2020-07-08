@@ -1,4 +1,4 @@
-e{
+{
   "name": "icedevelop/authentication-bundle",
   "type": "symfony-bundle",
   "description": "This bundle implements a sso google authentication via oauth2",
